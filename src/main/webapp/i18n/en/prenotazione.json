@@ -1,0 +1,36 @@
+{
+  "frontEndApp": {
+    "prenotazione": {
+      "home": {
+        "title": "Prenotaziones",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Prenotazione",
+        "createOrEditLabel": "Create or edit a Prenotazione",
+        "notFound": "No Prenotaziones found"
+      },
+      "created": "A new Prenotazione is created with identifier {{ param }}",
+      "updated": "A Prenotazione is updated with identifier {{ param }}",
+      "deleted": "A Prenotazione is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Prenotazione {{ id }}?"
+      },
+      "detail": {
+        "title": "Prenotazione"
+      },
+      "id": "ID",
+      "codiceFiscale": "Codice Fiscale",
+      "tesseraSanitaria": "Tessera Sanitaria",
+      "nome": "Nome",
+      "cognome": "Cognome",
+      "dataNascita": "Data Nascita",
+      "luogoNascita": "Luogo Nascita",
+      "luogoResidenza": "Luogo Residenza",
+      "email": "Email",
+      "telefono": "Telefono",
+      "luogoVaccino": "Luogo Vaccino",
+      "dataVaccino": "Data Vaccino",
+      "paziente": "Paziente",
+      "operatore": "Operatore"
+    }
+  }
+}
