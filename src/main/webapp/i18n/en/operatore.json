@@ -1,0 +1,32 @@
+{
+  "frontEndApp": {
+    "operatore": {
+      "home": {
+        "title": "Operatores",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Operatore",
+        "createOrEditLabel": "Create or edit a Operatore",
+        "notFound": "No Operatores found"
+      },
+      "created": "A new Operatore is created with identifier {{ param }}",
+      "updated": "A Operatore is updated with identifier {{ param }}",
+      "deleted": "A Operatore is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Operatore {{ id }}?"
+      },
+      "detail": {
+        "title": "Operatore"
+      },
+      "id": "ID",
+      "idAslOperatore": "Id Asl Operatore",
+      "nome": "Nome",
+      "cognome": "Cognome",
+      "dataNascita": "Data Nascita",
+      "luogoNascita": "Luogo Nascita",
+      "email": "Email",
+      "telefono": "Telefono",
+      "password": "Password",
+      "prenotazione": "Prenotazione"
+    }
+  }
+}
